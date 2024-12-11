@@ -1,6 +1,6 @@
-# Smart-Invoice Management System 🛒
+Quick Invoicer
 
-Smart-Invoice Management System is an application that facilitates efficient role-based access control and comprehensive management of customer and product-related information. The system distinguishes between customers and owners, providing specific privileges for data modification. It features a robust Point of Sale (POS) system for seamless product management and includes a notable functionality for generating professional invoices in PDF format.
+Quick Invoicer is an application that facilitates efficient role-based access control and comprehensive management of customer and product-related information. The system distinguishes between customers and owners, providing specific privileges for data modification. It features a robust Point of Sale (POS) system for seamless product management and includes a notable functionality for generating professional invoices in PDF format.
 
 ## Database
 
@@ -15,16 +15,6 @@ The system utilizes the Smart-Invoice database, which includes tables for User, 
 ### Dashboard 📊
 
 - Provides a centralized dashboard for easy navigation and access to various functionalities.
-
-### Customer Management 👤
-
-- Create, edit, and delete customer information.
-- Search and filter customers based on various criteria.
-- View customer purchase history and generate reports.
-
-### Store Management 🏬
-
-- Manage store information and connect with all other attributes for easy data access.
 
 ### Product Management 🛍️
 
@@ -54,15 +44,9 @@ The system utilizes the Smart-Invoice database, which includes tables for User, 
 - Generate professional-looking invoices in PDF format with custom branding and formatting.
 - Ensures document clarity and accessibility for customers.
 
-## Challenges Addressed
-
 ### Streamlining Table Management 🔄
 
 - Simplifies complexities associated with handling multiple tables by providing seamless CRUD operations.
-
-### Centralized Product Cart Management 🛒
-
-- Consolidates product cart management into a single, user-friendly interface, enhancing the overall user experience.
 
 ### Dynamic PDF Generation 📊
 

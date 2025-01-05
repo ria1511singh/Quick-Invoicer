@@ -7,6 +7,12 @@ Quick Invoicer is an application that facilitates efficient role-based access co
 The system utilizes the Smart-Invoice database, which includes tables for User, Customer, Category, Product, Sale, Store, Quotation, and Transfer.
 
 ## Key Features
+#Login/Signup 🚀
+#PDF Generation 📄
+#Dashboard 📊
+
+
+
 
 ### Login/Signup 🚀
 

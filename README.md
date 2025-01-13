@@ -58,6 +58,9 @@ The system utilizes the Smart-Invoice database, which includes tables for User, 
 
 - Excels in generating dynamic PDFs with various elements, ensuring the creation of comprehensive and customizable documents.
 
+
+## Quick Invoicer
+
 ## Application
 
 This application is beneficial for retailers, both brick-and-mortar and online, enabling quick addition of new products to their catalog and accurate tracking of product availability and pricing. It is also valuable in the supply chain, facilitating communication, invoice exchange, and inventory management to reduce manual work.
